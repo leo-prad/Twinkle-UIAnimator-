@@ -1,2 +1,5 @@
-# Twinkle-UIAnimator-
-Twinkle UI animator module is a lightweight, open-source UI animation module for Roblox developers. Designed to eliminate boilerplate tween code, UIAnimator gives you a clean, expressive API to animate frames, buttons, and text with minimal setup.
+# How to implement in your game-
+
+1. Drag and drop UIAnimator into Replicated Storage
+2. Drag and drop “Packages” folder into Replicated Storage
+3. You are good to go! :confetti_ball::tada:

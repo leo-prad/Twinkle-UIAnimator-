@@ -1,0 +1,12 @@
+[package]
+name = "caioband/twinkle"
+description = "Twinkle UI animator module is a lightweight, open-source UI animation module for Roblox developers. Designed to eliminate boilerplate tween code, UIAnimator gives you a clean, expressive API to animate frames, buttons, and text with minimal setup."
+license = "MIT"
+authors = ["leoprad2006", "caioband"]
+version = "0.0.9"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]
+trove = "sleitnick/trove@1.8.0"
+ezvisualz = "arxkdev/ezvisualz@1.2.0"
